@@ -1,0 +1,11 @@
+package Question1;
+
+public class MyFirstjava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("hello world");
+
+	}
+
+}
